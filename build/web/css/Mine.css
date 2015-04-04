@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 15, 2015, 9:59:30 PM
+    Author     : zhichengfu
+*/
+
+.addFCDIV
+{
+    border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd; 
+    border-radius: 25px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.selectBox
+{
+    width:120px;
+}
+
+.centertable{
+    padding:10px;
+    border-spacing: 10px;
+    margin: 0px auto;
+}
+
+.restauranttable
+{
+    margin: 0px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+table.restauranttable td, th
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.centertable td{
+    text-align: left;
+    width: 150px;
+}
+
+.logoImage{
+    height:70px;
+    width:70px;
+}
+
+.foodImage
+{
+    height:200px;
+    width:200px;
+}

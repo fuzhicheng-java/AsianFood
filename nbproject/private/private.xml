@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleGetAllFoods.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/index.html</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Model/Restaurant.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/Admin_Main.html</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/ManageMenu.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/Tools.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/Items_Show.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Model/User.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/test1.html</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleAddCategory.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/TestSQL.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/Admin_LogIn.html</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleTest.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleAddRestaurant.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleDeleteRestaurant.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/AllRestaurant.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Model/Paths.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleGetAllRestaurants.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/css/base.css</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleRedirectAddCategory.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/AddBrand.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/AddRestaurant.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/css/Mine.css</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/AddMenu.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Model/Food.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Model/Image.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/AllMenus.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/web/Admin/ShowFoodDetail.jsp</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Model/Category.java</file>
+            <file>file:/Users/zhichengfu/NetBeansProjects/AsianFood/src/java/Control/HandleAddFoodMenu.java</file>
+        </group>
+    </open-files>
+</project-private>
